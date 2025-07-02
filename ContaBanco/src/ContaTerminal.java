@@ -23,7 +23,5 @@ public class ContaTerminal {
 
         System.out.printf("Olá %s, obrigado por criar uma conta em nosso banco, sua agência é %s, " +
                 "conta %s e seu saldo R$%s já está disponível para saque.", name, agency, account, balance);
-
-
     }
 }
